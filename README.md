@@ -1,2 +1,2 @@
 # apple-detection
-![cover](data/cover.png)
+![cover](data/images/cover.png)
